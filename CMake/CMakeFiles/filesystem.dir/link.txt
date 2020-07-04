@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/filesystem.dir/main.cpp.o CMakeFiles/filesystem.dir/FileSystem.cpp.o CMakeFiles/filesystem.dir/directory.cpp.o CMakeFiles/filesystem.dir/file.cpp.o CMakeFiles/filesystem.dir/indirect.cpp.o CMakeFiles/filesystem.dir/inode.cpp.o  -o filesystem -rdynamic 

@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gavin/i-node file system 1.03/FileSystem.cpp
+FileSystem.h
+/home/gavin/i-node file system 1.03/FileSystem.h
+
+/home/gavin/i-node file system 1.03/FileSystem.h
+indirect.h
+/home/gavin/i-node file system 1.03/indirect.h
+file.h
+/home/gavin/i-node file system 1.03/file.h
+inode.h
+/home/gavin/i-node file system 1.03/inode.h
+directory.h
+/home/gavin/i-node file system 1.03/directory.h
+iostream
+-
+fstream
+-
+stack
+-
+string
+-
+sstream
+-
+stdlib.h
+-
+vector
+-
+
+/home/gavin/i-node file system 1.03/directory.cpp
+directory.h
+/home/gavin/i-node file system 1.03/directory.h
+iostream
+-
+
+/home/gavin/i-node file system 1.03/directory.h
+map
+-
+string
+-
+
+/home/gavin/i-node file system 1.03/file.cpp
+file.h
+/home/gavin/i-node file system 1.03/file.h
+
+/home/gavin/i-node file system 1.03/file.h
+string
+-
+iostream
+-
+
+/home/gavin/i-node file system 1.03/indirect.cpp
+indirect.h
+/home/gavin/i-node file system 1.03/indirect.h
+
+/home/gavin/i-node file system 1.03/indirect.h
+cstring
+-
+
+/home/gavin/i-node file system 1.03/inode.cpp
+inode.h
+/home/gavin/i-node file system 1.03/inode.h
+
+/home/gavin/i-node file system 1.03/inode.h
+cstring
+-
+ctime
+-
+
+/home/gavin/i-node file system 1.03/main.cpp
+FileSystem.h
+/home/gavin/i-node file system 1.03/FileSystem.h
+

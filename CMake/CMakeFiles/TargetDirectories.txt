@@ -1,0 +1,3 @@
+/home/gavin/i-node file system 1.03/CMake/CMakeFiles/edit_cache.dir
+/home/gavin/i-node file system 1.03/CMake/CMakeFiles/rebuild_cache.dir
+/home/gavin/i-node file system 1.03/CMake/CMakeFiles/filesystem.dir
